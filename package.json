@@ -1,0 +1,11 @@
+{
+  "name": "gql_be_dubz",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/jvgiv/gql_be_dubz.git",
+  "author": "John Gibbons <jvgiv12@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "graphql-yoga": "^1.18.1"
+  }
+}
